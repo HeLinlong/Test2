@@ -1,2 +1,2 @@
-Git is free software 垃圾叽叽123.
+Git is free software.
 Git is a version.
